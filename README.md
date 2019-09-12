@@ -4,6 +4,8 @@
   Screensaver inspired by Apple's Event 2019, based on intro animation "Wonderful Tools" by Apple. Developed by Julian Groen
 </blockquote>
 
+<img src="https://github.com/julian-groen/WonderfulTools/blob/master/WonderfulTools/thumbnail.png" />
+
 <h2>Installation</h2>
 <p>Before we install <b>WonderfulTools</b>, please close System Preferences.</p>
 <ol>
