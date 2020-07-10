@@ -18,7 +18,3 @@
 
 <h2>Compatability</h2>
 <p>Requires macOS Mojave (10.14) or above.</p>
-
-<h2>Support <3</h2>
-  <p>If you are enjoying my work and you would like to help me continue, please consider:</p>
-  <p><ul><li><a href="https://paypal.me/juliangroen7">https://paypal.me/juliangroen7</a></li></ul></p>
